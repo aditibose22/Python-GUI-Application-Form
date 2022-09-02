@@ -1,4 +1,3 @@
-#CSE 2nd Year 3rd Sem Roll no. 5,8,9,10,12
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
